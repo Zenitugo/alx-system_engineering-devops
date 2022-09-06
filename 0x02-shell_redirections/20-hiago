@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s [:c:] '\t'
+tr -s 'c' '\t'
